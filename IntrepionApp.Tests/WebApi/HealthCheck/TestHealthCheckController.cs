@@ -1,3 +1,5 @@
+using FluentAssertions;
+using Microsoft.AspNetCore.Mvc;
 using IntrepionApp.WebApi.HealthCheck;
 
 namespace IntrepionApp.Tests.WebApi.HealthCheck;
