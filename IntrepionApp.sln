@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntrepionApp.WebApi", "IntrepionApp.WebApi\IntrepionApp.WebApi.csproj", "{5F1387B8-D452-4885-91E4-863A372447EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntrepionApp.Tests", "IntrepionApp.Tests\IntrepionApp.Tests.csproj", "{4BADAAD8-F8EF-4FE9-A6DD-3F6A2B747744}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{5F1387B8-D452-4885-91E4-863A372447EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F1387B8-D452-4885-91E4-863A372447EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F1387B8-D452-4885-91E4-863A372447EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BADAAD8-F8EF-4FE9-A6DD-3F6A2B747744}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BADAAD8-F8EF-4FE9-A6DD-3F6A2B747744}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BADAAD8-F8EF-4FE9-A6DD-3F6A2B747744}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BADAAD8-F8EF-4FE9-A6DD-3F6A2B747744}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
