@@ -1,3 +1,5 @@
+using IntrepionApp.WebApi.HealthCheck;
+
 namespace IntrepionApp.Tests.WebApi.HealthCheck;
 
 public class TestHealthCheckController
